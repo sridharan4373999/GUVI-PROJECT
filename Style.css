@@ -1,0 +1,13 @@
+.login_form {
+  height: 400px;
+}
+
+.login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login h1 {
+  color: rgb(68, 215, 68);
+}/*# sourceMappingURL=Style.css.map */
